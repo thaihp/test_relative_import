@@ -1,1 +1,1 @@
-print("bac")
+__all__ = ["module1"]
